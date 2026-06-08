@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <iframe
-      src="/public/deck.html"
+      src="/deck.html
       style={{
         width: '100vw',
         height: '100vh',
