@@ -9,7 +9,7 @@ export default function Home() {
         display: 'block',
         background: '#000',
       }}
-      title="Ammunition · Automotive CGI"
+      tititle="Ammunition - Automotive CGI"
       allowFullScreen
     />
   )
